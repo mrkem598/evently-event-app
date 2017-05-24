@@ -1,9 +1,9 @@
    # Evently-Event-App
    
- 	Fullstack application developed with Asynchronyous Ajax request to and event REST API's, 
+ 	Fullstack application developed with Asynchronyous Ajax request to an event REST API's, 
 	Firebase batabase, JS, HTML5 and CSS3. 
  
- 	The app use GET request to query the event API's and get Gogle API. The app Call ticket master
+ 	The app use GET request to query the event API's and get Google API. The app Call ticket master
 	API for event information
 	
 	Docs available at: http://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
