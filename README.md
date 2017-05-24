@@ -1,15 +1,15 @@
    # Evently-Event-App
    
- 	Fullstack application developed with Asynchronyous Ajax request to and event REST API's, <br></br>
+ 	Fullstack application developed with Asynchronyous Ajax request to and event REST API's, 
 	Firebase batabase, JS, HTML5 and CSS3. 
  
- 	The app use GET request to query the event API's and get Gogle API. The app Call ticket master<br></br> 
+ 	The app use GET request to query the event API's and get Gogle API. The app Call ticket master
 	API for event information
 	
 	Docs available at: http://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
 
-	The app ALLOWS SEARCHING OVER RANGE, UNCLEAR ON SINGLE DATE BEHAVIOR. IT ALSO HAS THIS WITH <br></br>
-	START/END DATETIMES MODIFY SEARCH TO ALLOW DATE RANGE SEARCHES WITH OPTION FOR TODAY, TOMORROW,<br></br>
+	The app ALLOWS SEARCHING OVER RANGE, UNCLEAR ON SINGLE DATE BEHAVIOR. IT ALSO HAS THIS WITH 
+	START/END DATETIMES MODIFY SEARCH TO ALLOW DATE RANGE SEARCHES WITH OPTION FOR TODAY, TOMORROW,
 	NEXT WEEK, ETC. IT ALSO ADD CATEGORY SELECTOR TO SELECT CATEGORIES.
 
 <img width="900" alt="capture" src="https://cloud.githubusercontent.com/assets/23619819/24816558/3942d486-1ba7-11e7-96d5-cf362006fc36.PNG">
